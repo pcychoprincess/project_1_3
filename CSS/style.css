@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif
+}
+header img{margin: 10px 0px 0px 10px; width: 60px; 
+display: inline-block;}
+header{background-color: #7109AA; z-index: 1;}
+header img{border: #84004D 8px double;}
+main img{border: #711ce0 8px double; border-radius: 10px;}
+nav font{display: flex;
+justify-content: space-evenly;
+color: white;
+font-size: 14px;
+position: relative; bottom: 65px;
+}
+header{position: sticky;width: 100%;top:0;}
+font a{color: rgb(176, 57, 245); text-decoration: none;}
+h1{display: flex; padding-left: 40%;
+color:#1F0772; width: 300px; font-size: 35px;}
+h4{color: #47036F;}
+h2{margin: 0px 0px 0px 40px;
+color: #84004D}
+main p{color: #700daa}
+main li{color: #700daa}
+main li a{color: #700daa; text-decoration: dashed overline 2px;}
+main li a:visited{color:#664d95}
+main li a:hover{transition-duration: 3s;
+color:#ff0095}
+.abzac{font-size: 19px}
+.rt{border:0px; opacity: 0.7;}
+header{height: 90px;}
+.list li{font-size: 20px;}
+.list li::before{content:url(https://i.postimg.cc/s2ybwB1G/free-icon-smile-742751-1.png);height: 10px;}
+li{list-style-type: none;}
+.rt:hover{border:0px;}
+main img:hover{transition-duration: 3s;
+border:#ff0095 8px double;}
+footer{background-color: #7109AA; padding: 0px 3px 3px 10px}
+footer p{color: white; padding-top: 4px; font-size: 19px}
+footer img{margin-right: 13px;}
+.abzac font{display: block;}
+.advokat_1{display: inline-block;
+margin-right: 10%;}
+nav a:hover{color: white; font-size: 18px;}
+
+h1:hover{color: #7a0047;transition-duration: 3s;
+text-shadow: 10px 10px 10px #7a0047;}
+h1{font-family: 'Courier New', Courier, monospace;}
